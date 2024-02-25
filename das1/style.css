@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    display:flex;
+    justify-content:center;
+    height: 100vh;
+}
+
+#ac,#plmin,#tok,#baj{
+    border-radius: 100%;
+    padding: 10px;
+    background-color:orange;
+    display: inline-block;
+    width: 40px;
+    border: none;
+}
+.num{
+    
+        border-radius: 100%;
+        padding: 10px;
+        background-color: gray ;
+        display: inline-block;
+        width: 40px;
+        border: none;
+}
+.yellow,#baj{
+    
+    border-radius: 100%;
+    padding: 10px;
+    background-color:orange;
+    display: inline-block;
+    width: 40px;
+    border: none;
+}
+#zero{
+    width: 83px;
+    border-radius: 90px; 
+}
+.calculator{
+    margin-top: 60px;
+}
